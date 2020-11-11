@@ -13,6 +13,7 @@ Overview
 
 for detail and step by step video
 https://hzonesp.com/php/login-using-salt-hash-password-logout-php-mysql/
+
 https://www.youtube.com/watch?v=-Ila7jk9l8Q
 
             
